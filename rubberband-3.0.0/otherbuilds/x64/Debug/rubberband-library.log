@@ -1,0 +1,156 @@
+﻿  rubberband-c.cpp
+  RubberBandStretcher.cpp
+  AudioCurveCalculator.cpp
+  CompoundAudioCurve.cpp
+  HighFrequencyAudioCurve.cpp
+  SilentAudioCurve.cpp
+  PercussiveAudioCurve.cpp
+  StretcherChannelData.cpp
+  R2Stretcher.cpp
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(110,15): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(127,49): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(130,49): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(173,105): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(208,105): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(462,78): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(462,63): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(463,77): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(463,61): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(525,72): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(525,57): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(526,30): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(527,63): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(555,49): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(563,33): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(566,33): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(713,68): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(758,103): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(766,103): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(987,33): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(987,23): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(1049,44): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(1129,168): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(1129,151): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(1187,60): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(1187,56): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(1237,76): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\R2Stretcher.cpp(1255,45): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+  StretcherProcess.cpp
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(57,59): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(82,64): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(93,50): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(194,125): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(194,107): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(297,102): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(297,86): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(314,38): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(315,49): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(315,44): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(386,112): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(398,67): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(421,35): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(421,19): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(456,92): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(456,74): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(458,115): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(462,114): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(462,96): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(476,62): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(693,89): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(694,81): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(694,45): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(861,52): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(1009,24): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(1009,15): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(1039,121): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(1039,103): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(1108,39): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(1108,23): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(1110,34): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(1110,23): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(1114,49): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(1118,33): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(1123,106): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(1123,101): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(1133,51): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(1134,47): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(1134,42): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(1140,47): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(1141,43): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(1141,38): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(1142,62): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(1142,53): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(1167,84): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(1186,55): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\faster\StretcherProcess.cpp(1186,46): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+  BQResampler.cpp
+  Profiler.cpp
+  Resampler.cpp
+  FFT.cpp
+  Log.cpp
+  Allocators.cpp
+  StretchCalculator.cpp
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(89,75): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(93,111): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(94,94): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(94,90): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(100,52): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(140,71): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(140,53): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(141,67): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(141,54): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(190,73): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(190,50): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(191,53): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(254,101): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(254,83): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(268,75): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(268,57): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(308,64): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(308,56): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(426,88): warning C4244: 'argument': conversion from 'int64_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(426,78): warning C4244: 'argument': conversion from 'int64_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(427,32): warning C4244: 'argument': conversion from 'int64_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(440,140): warning C4244: 'argument': conversion from 'int64_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(481,53): warning C4244: 'argument': conversion from 'int64_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(558,41): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(574,76): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(581,81): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(590,79): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(601,81): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(614,77): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(625,32): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(628,45): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(704,64): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(746,39): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\common\StretchCalculator.cpp(751,39): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+  sysutils.cpp
+  Thread.cpp
+  R3Stretcher.cpp
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\finer\R3Stretcher.cpp(365,122): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\finer\R3Stretcher.cpp(365,112): warning C4244: 'argument': conversion from '_Ty2' to 'double', possible loss of data
+          with
+          [
+              _Ty2=size_t
+          ]
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\finer\R3Stretcher.cpp(375,110): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\finer\R3Stretcher.cpp(375,101): warning C4244: 'argument': conversion from '_Ty1' to 'double', possible loss of data
+          with
+          [
+              _Ty1=const size_t
+          ]
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\finer\R3Stretcher.cpp(510,74): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\finer\R3Stretcher.cpp(510,65): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\finer\R3Stretcher.cpp(516,92): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\finer\R3Stretcher.cpp(516,83): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\finer\R3Stretcher.cpp(534,45): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\finer\R3Stretcher.cpp(534,23): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\finer\R3Stretcher.cpp(540,52): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\finer\R3Stretcher.cpp(540,27): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\finer\R3Stretcher.cpp(589,227): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\finer\R3Stretcher.cpp(589,223): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\finer\R3Stretcher.cpp(783,50): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\finer\R3Stretcher.cpp(783,27): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\src\finer\R3Stretcher.cpp(785,77): warning C4244: 'argument': conversion from 'size_t' to 'double', possible loss of data
+  Generating Code...
+  rubberband-library.vcxproj -> C:\Projects\JuceProjects\DreamJ\rubberband-3.0.0\otherbuilds\x64\Debug\rubberband-library.lib
