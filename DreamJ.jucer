@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="Anewf6" name="DreamJ" projectType="guiapp" useAppConfig="0"
+              cppLanguageStandard="latest" companyName="vJD" splashScreenColour="Light"
+              displaySplashScreen="1" jucerFormatVersion="1" headerPath="..\..\rubberband-3.0.0\rubberband">
+  <MAINGROUP id="oTohyQ" name="DreamJ">
+    <GROUP id="{11876188-F0B2-3A6A-E94E-2D391955D314}" name="Source">
+      <GROUP id="{BD794095-8D8F-37F0-E30D-DF0333599D32}" name="Main files">
+        <FILE id="dU5JKM" name="Main.cpp" compile="1" resource="0" file="Source/Main.cpp"/>
+        <FILE id="wAkMbe" name="MainComponent.cpp" compile="1" resource="0"
+              file="Source/MainComponent.cpp"/>
+        <FILE id="nOsAwO" name="MainComponent.h" compile="0" resource="0" file="Source/MainComponent.h"/>
+        <FILE id="oDvYO1" name="SettingsManager.cpp" compile="1" resource="0"
+              file="Source/SettingsManager.cpp"/>
+        <FILE id="uv6bVl" name="SettingsManager.h" compile="0" resource="0"
+              file="Source/SettingsManager.h"/>
+      </GROUP>
+      <GROUP id="{A1EDAFA3-884D-E178-3A84-A67FA21E3E5F}" name="Mixer">
+        <GROUP id="{7524EF40-EDC3-F465-01E0-1E993DA260AD}" name="Channel Attributes">
+          <FILE id="fnEvoc" name="CrossFader.cpp" compile="1" resource="0" file="Source/CrossFader.cpp"/>
+          <FILE id="t69KSE" name="CrossFader.h" compile="0" resource="0" file="Source/CrossFader.h"/>
+          <FILE id="LEPP0J" name="CrossfaderStyles.cpp" compile="1" resource="0"
+                file="Source/CrossfaderStyles.cpp"/>
+          <FILE id="EK2Np7" name="CrossfaderStyles.h" compile="0" resource="0"
+                file="Source/CrossfaderStyles.h"/>
+        </GROUP>
+        <FILE id="VcK9oi" name="MixerChannel.cpp" compile="1" resource="0"
+              file="Source/MixerChannel.cpp"/>
+        <FILE id="wUIWQv" name="MixerChannel.h" compile="0" resource="0" file="Source/MixerChannel.h"/>
+        <FILE id="OyQhFz" name="MixerModule.cpp" compile="1" resource="0" file="Source/MixerModule.cpp"/>
+        <FILE id="OJ0kBd" name="MixerModule.h" compile="0" resource="0" file="Source/MixerModule.h"/>
+      </GROUP>
+      <GROUP id="{868ABAA5-AD1F-7950-2EE7-50D3F50255EB}" name="Player">
+        <FILE id="GM14L4" name="HotCueButtons.cpp" compile="1" resource="0"
+              file="Source/HotCueButtons.cpp"/>
+        <FILE id="aC4K6M" name="HotCueButtons.h" compile="0" resource="0" file="Source/HotCueButtons.h"/>
+        <FILE id="Kv6nht" name="MusicPlayer.cpp" compile="1" resource="0" file="Source/MusicPlayer.cpp"/>
+        <FILE id="aLXwqY" name="MusicPlayer.h" compile="0" resource="0" file="Source/MusicPlayer.h"/>
+        <FILE id="a4DOBz" name="PitchModule.cpp" compile="1" resource="0" file="Source/PitchModule.cpp"/>
+        <FILE id="RS5NBj" name="PitchModule.h" compile="0" resource="0" file="Source/PitchModule.h"/>
+        <FILE id="Hu94cz" name="Visualiser.cpp" compile="1" resource="0" file="Source/Visualiser.cpp"/>
+        <FILE id="yirDLu" name="Visualiser.h" compile="0" resource="0" file="Source/Visualiser.h"/>
+        <FILE id="gLJvs1" name="vJDSoundSource.h" compile="0" resource="0"
+              file="Source/vJDSoundSource.h"/>
+      </GROUP>
+      <GROUP id="{40710330-06FE-86C3-2862-BF3C1BD64BA7}" name="Browser">
+        <FILE id="x8iy5Z" name="Browser.cpp" compile="1" resource="0" file="Source/Browser.cpp"/>
+        <FILE id="ziXaco" name="Browser.h" compile="0" resource="0" file="Source/Browser.h"/>
+        <FILE id="HpowM6" name="MusicDataManager.cpp" compile="1" resource="0"
+              file="Source/MusicDataManager.cpp"/>
+        <FILE id="JUiwTW" name="MusicDataManager.h" compile="0" resource="0"
+              file="Source/MusicDataManager.h"/>
+      </GROUP>
+    </GROUP>
+  </MAINGROUP>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1"/>
+  <EXPORTFORMATS>
+    <VS2022 targetFolder="Builds/VisualStudio2022" externalLibraries="rubberband-library.lib">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="DreamJ" libraryPath="..\..\rubberband-3.0.0\otherbuilds\x64\Debug"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="DreamJ" headerPath="&#10;"
+                       libraryPath="..\..\rubberband-3.0.0\otherbuilds\x64\Release"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../../Program Files/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../../Program Files/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../../Program Files/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../../Program Files/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../../../Program Files/JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../../../Program Files/JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../../Program Files/JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../../../Program Files/JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../../Program Files/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../../Program Files/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../../Program Files/JUCE/modules"/>
+        <MODULEPATH id="juce_cryptography" path="../../../Program Files/JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="../../../Program Files/JUCE/modules"/>
+      </MODULEPATHS>
+    </VS2022>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_cryptography" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+  <LIVE_SETTINGS>
+    <WINDOWS/>
+  </LIVE_SETTINGS>
+</JUCERPROJECT>
